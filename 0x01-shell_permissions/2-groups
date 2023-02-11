@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "$(groups whoami)"
+#!#!/bin/bash
+groups | tr " " "\n""
