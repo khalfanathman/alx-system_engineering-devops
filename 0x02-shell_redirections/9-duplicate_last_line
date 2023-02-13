@@ -1,0 +1,2 @@
+#!/bin/bash
+line=$(tail -n 1 iacta); echo "$line" >> iacta \n
