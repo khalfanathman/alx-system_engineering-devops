@@ -1,2 +1,2 @@
 #!/bin/bash
-read input; echo "${input//[cC]/}" \n
+read input; echo "${input//[cC]/}" 
